@@ -1,6 +1,6 @@
      
 // Hubspot | Contact Form Master | Embed Code
-// v1.0.0-alpha
+// v1.0.0-beta
 
 hbspt.forms.create({
 region: "eu1",
