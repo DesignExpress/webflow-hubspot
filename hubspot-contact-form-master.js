@@ -1,7 +1,6 @@
      
 // Hubspot | Contact Form Master | Embed Code
-// v1.0.0-beta
-
+// Emma is awesome!
 hbspt.forms.create({
 region: "eu1",
 portalId: "25214962",
